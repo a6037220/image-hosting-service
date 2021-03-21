@@ -1,0 +1,38 @@
+{
+  "uploaded": [],
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    },
+    "github": {
+      "branch": "main",
+      "customUrl": "https://cdn.jsdelivr.net/gh/XSeanU/image-hosting-service",
+      "path": "",
+      "repo": "XSeanU/image-hosting-service",
+      "token": "8fad16cfb624210986b468a2dcd2635917473b7c"
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "Alt+P",
+        "name": "upload",
+        "label": "快捷上传"
+      }
+    },
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "showUpdateTip": true,
+    "pasteStyle": "URL"
+  },
+  "picgoPlugins": {},
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "needReload": false
+}
