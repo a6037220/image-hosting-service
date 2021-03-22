@@ -9,9 +9,9 @@
     "github": {
       "branch": "main",
       "customUrl": "https://cdn.jsdelivr.net/gh/XSeanU/image-hosting-service",
-      "path": "",
+      "path": "PicGo",
       "repo": "XSeanU/image-hosting-service",
-      "token": "8fad16cfb624210986b468a2dcd2635917473b7c"
+      "token": "f9cedd14a3fc6556a515445097717581a3ae80f4"
     }
   },
   "settings": {
@@ -29,7 +29,9 @@
       "enable": true
     },
     "showUpdateTip": true,
-    "pasteStyle": "URL"
+    "pasteStyle": "URL",
+    "autoStart": true,
+    "uploadNotification": true
   },
   "picgoPlugins": {},
   "debug": true,
