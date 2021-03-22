@@ -11,14 +11,14 @@
       "customUrl": "https://cdn.jsdelivr.net/gh/XSeanU/image-hosting-service",
       "path": "PicGo",
       "repo": "XSeanU/image-hosting-service",
-      "token": "f9cedd14a3fc6556a515445097717581a3ae80f4"
+      "token": "10f1d17a13d5411d3d8034d2e07833bd01b07698"
     }
   },
   "settings": {
     "shortKey": {
       "picgo:upload": {
         "enable": true,
-        "key": "Alt+P",
+        "key": "F4",
         "name": "upload",
         "label": "快捷上传"
       }
@@ -31,7 +31,7 @@
     "showUpdateTip": true,
     "pasteStyle": "URL",
     "autoStart": true,
-    "uploadNotification": true
+    "uploadNotification": false
   },
   "picgoPlugins": {},
   "debug": true,
